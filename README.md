@@ -21,14 +21,6 @@ What it is: A personal ML project to train an image classifier on dermatology co
 
 ---
 
-
-DermAI is a personal machine learning project focused on classifying common skin conditions from images.  
-The goal of the project is to build a **clean, leakage-safe training pipeline**, train a CNN on an imbalanced dermatology dataset, and eventually deploy the model in a simple desktop and mobile demo.
-
-> This project is for learning and experimentation only and is **not a medical diagnostic tool**.
-
----
-
 ## Project Overview
 
 - Dataset: dermatology images grouped by **condition** and **age group**
